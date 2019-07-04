@@ -1,4 +1,4 @@
-package com.github.fish56;
+package com.github.fishjava;
 
 public class ApplicationTest {
 }

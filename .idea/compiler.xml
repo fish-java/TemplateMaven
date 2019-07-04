@@ -9,6 +9,7 @@
         <module name="JMH" />
         <module name="Serializable" />
         <module name="TemplateJava" />
+        <module name="TemplateJavaMavendf" />
         <module name="TemplateJavaMavenf" />
       </profile>
     </annotationProcessing>
